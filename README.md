@@ -13,4 +13,4 @@ For example, when the user goes to `http://localhost:3000/addition/10/1`, the pa
 - `npm install`
 - `node calculator.js`
 
-[![Actions Status](https://github.com/{vchan8084}/{express-calculator}/workflows/{workflow_name}/badge.svg)](https://github.com/{vchan8084}/{express-calculator}/actions)
+![](https://github.com/vchan8084/express-calculator/workflows/nodejs/badge.svg)
